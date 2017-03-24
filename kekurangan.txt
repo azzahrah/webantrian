@@ -1,0 +1,10 @@
+Kekurangan
+1. Tombol Show All Vehicle (OK)
+2. Proses Direction (OK)
+3. Cut Engine (OK)
+4. Resume Engine (OK)
+5. Add Tab Alarm To Last Position
+6. Update Last Position (OK)
+7. Add Report
+8. Update Status di tbl_last_position
+9. click tbl_last_position ---> show_marker
